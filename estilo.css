@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    margin: 80px;
+    background-color: rgb(255, 255, 255);
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+  }
+  p {
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(255, 255, 255);
+  }
+  .video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh; 
+  }
+  video {
+    width: 400px;
+    height: 200px;
+  }
+  body {
+    background-color: #4d4747;
+  }
+ 
